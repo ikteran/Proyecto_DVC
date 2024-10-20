@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://ikteran-dvcstore
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
